@@ -33,13 +33,22 @@ h1 {
     color: white;
 }
 
-p {
+h2 {
+    font-family: 'IBM Plex Sans', sans-serif;
+    font-weight: 200;
+    color: white;
+    font-size: 32px;
+    height: 37px;
+    letter-spacing: -1.28px;
+    line-height: 37px;
+}
+
+p, li {
     color: rgba(255, 255, 255, 0.87);
     display: block;
     font-family: "IBM Plex Sans", sans-serif;
     font-size: 18px;
     font-weight: 200;
-    
     line-height: 24px;
 }
 
@@ -66,9 +75,11 @@ p {
 .author, .date {
     color: rgb(180, 180, 180);
     margin: 0;
+    font-size: 16px;
 }
 
 .name {
     color: rgb(255, 255, 255);;
     margin: 0;
+    font-size: 16px;
 }
