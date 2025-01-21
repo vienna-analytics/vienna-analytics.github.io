@@ -35,7 +35,7 @@ h1 {
 
 h2 {
     font-family: 'IBM Plex Sans', sans-serif;
-    font-weight: 200;
+    font-weight: 400;
     color: white;
     font-size: 32px;
     height: 37px;
@@ -43,7 +43,7 @@ h2 {
     line-height: 37px;
 }
 
-p, li {
+p {
     color: rgba(255, 255, 255, 0.87);
     display: block;
     font-family: "IBM Plex Sans", sans-serif;
