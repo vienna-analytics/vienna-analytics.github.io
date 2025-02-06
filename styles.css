@@ -8,11 +8,12 @@ body {
 }
 
 p {
-    color: white;
+    color: #eaeaea; 
     display: block;
-    font-family: "Inter", serif;
+    font-family: "Be Vietnam Pro", serif;
     font-size: 17px;
-    font-weight: 200;
+    letter-spacing: 0.5px;
+    font-weight: 300;
     line-height: 24px;
 }
 
