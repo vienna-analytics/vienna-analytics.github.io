@@ -1,0 +1,15 @@
+.logo-box {
+    position: absolute;
+    top: 0;
+    left: 50%;
+    transform: translateX(-50%);
+    background-color: blue;
+    padding: 20px; /* Space around the logo inside the box */
+    border-radius: 10px; /* Rounded corners */
+    margin-top: 20px; /* Space from top of the page */
+}
+
+.logo-box img {
+    max-width: 5%;
+    height: auto;
+}

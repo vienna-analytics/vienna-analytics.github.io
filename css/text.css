@@ -1,0 +1,9 @@
+.text-box {
+    width: 500px;
+    margin: 0 auto; /* Centers the div horizontally */
+    margin-top: 150px; /* Adjust this value to position it below the logo */
+    text-align: left; /* Aligns text inside the div to the left */
+    font-family: "IBM Plex Mono";
+    text-transform: uppercase;
+    color: blue;
+}
